@@ -8,6 +8,8 @@ def incorrect_guess(self)
   if input != num 
     puts "Sorry! The computer guessed #{num}"
   else
+    puts "You guessed the correct number!"
+  end 
     
     
 
