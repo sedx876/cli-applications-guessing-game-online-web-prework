@@ -4,7 +4,7 @@ def user_input(self)
 end
 
 def incorrect_guess(self)
-  if rand 
+  if rand 1..6
 
 
 
