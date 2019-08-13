@@ -1,6 +1,6 @@
-def user_input(user)
+def user_input(self)
   gets.chomp 
-  puts "Hello #{name}"
+  returns "Goodbye"
 end
 
 
